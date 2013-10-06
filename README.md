@@ -4,6 +4,7 @@ xtension-modules
 xTension Modules
 
 - [AdditionalBatteryInfo](https://github.com/KDGDev/xtension-modules/raw/master/AdditionalBatteryInfo.apk)
+- [AlarmTimeFix](https://github.com/KDGDev/xtension-modules/raw/master/AlarmTimeFix.apk)
 - [AllAppsInPlayStore](https://github.com/KDGDev/xtension-modules/raw/master/AllAppsInPlayStore.apk)
 - [AutoRotation](https://github.com/KDGDev/xtension-modules/raw/master/AutoRotation.apk)
 - [BrowserAutofit](https://github.com/KDGDev/xtension-modules/raw/master/BrowserAutofit.apk)
