@@ -9,6 +9,7 @@ xTension Modules
 - [AutoRotation](https://github.com/KDGDev/xtension-modules/raw/master/AutoRotation.apk)
 - [BrowserAutofit](https://github.com/KDGDev/xtension-modules/raw/master/BrowserAutofit.apk)
 - [CarrierLabel](https://github.com/KDGDev/xtension-modules/raw/master/CarrierLabel.apk)
+- [CenterClock](https://github.com/KDGDev/xtension-modules/raw/master/CenterClock.apk)
 - [CurrentTrackLaunch](https://github.com/KDGDev/xtension-modules/raw/master/CurrentTrackLaunch.apk)
 - [EmailOrientation](https://github.com/KDGDev/xtension-modules/raw/master/EmailOrientation.apk)
 - [MmsAutoOrientation](https://github.com/KDGDev/xtension-modules/raw/master/MmsAutoOrientation.apk)
