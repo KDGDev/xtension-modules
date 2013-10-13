@@ -16,3 +16,4 @@ xTension Modules
 - [NetworkFix](https://github.com/KDGDev/xtension-modules/raw/master/NetworkFix.apk)
 - [RebootMenu](https://github.com/KDGDev/xtension-modules/raw/master/RebootMenu.apk)
 - [VolumeControl](https://github.com/KDGDev/xtension-modules/raw/master/VolumeControl.apk)
+- [VolumeKeysSkipTrack](https://github.com/KDGDev/xtension-modules/raw/master/VolumeKeysSkipTrack.apk)
