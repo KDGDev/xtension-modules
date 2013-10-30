@@ -17,3 +17,8 @@ xTension Modules
 - [RebootMenu](https://github.com/KDGDev/xtension-modules/raw/master/RebootMenu.apk)
 - [VolumeControl](https://github.com/KDGDev/xtension-modules/raw/master/VolumeControl.apk)
 - [VolumeKeysSkipTrack](https://github.com/KDGDev/xtension-modules/raw/master/VolumeKeysSkipTrack.apk)
+
+[![Лицензия Creative Commons](http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)][0]  
+Разрешения, выходящие за рамки данной лицензии, могут быть доступны на странице [http://romz.bz][1].
+[0]: http://creativecommons.org/licenses/by-nc-nd/3.0/deed.ru
+[1]: http://romz.bz
